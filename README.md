@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me i've added my linkedin 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm from an Non-Tech background but still better than most of B.Tech graduates!!
 
 <!---
 Surya-2701/Surya-2701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
