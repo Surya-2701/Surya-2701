@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Surya-2701
 - 👀 I’m interested in listening music while doing any task.
 - 🌱 I’m currently learning Django and REST Api
-- 💞️ I’m looking to collaborate on challenging projects
+- 💞️ "Integrating Biology, Computer Science, and Mathematics to Unravel the Secrets of Life"
 - 📫 How to reach me i've added my linkedin 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm from an Non-Tech background but still better than most of B.Tech graduates!!
