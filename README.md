@@ -1,24 +1,28 @@
-👋 Hello, I'm Surya
-I'm passionate about combining biology, computer science, and mathematics to decode complex biological systems. I’m transitioning from a non-technical background to tech, diving deep into bioinformatics to bring innovative insights to life sciences!
+# 👋 Hi, I'm Surya Pratap Singh
+**Dedicated Biotechnologist** | **Bioinformatics Enthusiast** | **Tech Explorer**
 
-👀 Interests
-I enjoy immersing myself in music while working on tasks—it’s my rhythm for productivity!
+---
 
-🌱 Currently Exploring
-Django and REST API development for creating scalable web applications.
-Bash scripting to streamline workflows and enhance my automation skills.
-🚀 Career Aspirations
-I’m actively pursuing a career in bioinformatics to leverage my interdisciplinary background and contribute to advancements at the intersection of biology and technology.
+## 🌟 About Me
+- 🔬 Passionate about merging **biology**, **technology**, and **mathematics** to decode life.
+- 🌱 Currently diving deep into **Django** and **REST API development**.
+- 🚀 Aspiring to create scalable and innovative tools for life sciences.
+- 🎧 Productivity hack: Immersing myself in music while coding.
 
-🌐 Connect with Me
-Feel free to reach out on LinkedIn (link is in my profile) to discuss potential collaborations or share insights!
+---
 
-🔍 A Little More About Me
-Pronouns: He/Him
-Fun Fact: Coming from a non-tech background, I’ve managed to surpass many tech grads—proof that curiosity and determination can be as powerful as formal education!
+## 🔧 Technologies I Use
+| **Languages**       | Python, Bash Scripting    |
+|----------------------|---------------------------|
+| **Frameworks**       | Django                   |
+| **Development Tools**| Git, Docker              |
 
+---
 
-<!---
-Surya-2701/Surya-2701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya-2701&show_icons=true&theme=radical)
+
+---
+
+💬 **Let's Connect**  
+Feel free to reach out on [LinkedIn](https://linkedin.com/in/your-profile) or explore my repositories for collaboration ideas.
