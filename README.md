@@ -23,9 +23,7 @@ I'm a tech-driven biotechnologist blending **biology**, **technology**, and **ma
 | **Category**         | **Proficiency**                |  
 |-----------------------|---------------------------------|  
 | **Languages**         | Python, Bash Scripting         |  
-| **Frameworks**        | Django, REST Framework         |  
-| **DevOps**            | Docker, Git, CI/CD Pipelines   |  
-| **Databases**         | PostgreSQL, SQLite             |  
+| **Frameworks**        | Django, REST Framework         |   
 | **Bioinformatics**    | Biopython, Sequence Analysis   |  
 
 ---
