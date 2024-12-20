@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm **Surya Pratap Singh**  
 ### 🧬 Biotechnologist | 🔍 Bioinformatics Explorer | 💻 Tech Innovator  
 
