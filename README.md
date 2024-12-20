@@ -1,5 +1,3 @@
-Here’s the revised version incorporating **Biopython** and **bioinformatics tools** into the "Current Focus" section:
-
 ---
 
 # 👋 Hi, I'm **Surya Pratap Singh**  
