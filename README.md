@@ -1,33 +1,57 @@
-👋 Hi, I'm Surya Pratap Singh
-🧬 Biotechnologist | 🔍 Bioinformatics Explorer | 💻 Tech Innovator
-🌟 About Me
-I'm a tech-driven biotechnologist blending biology, technology, and mathematics to unlock the mysteries of life.
+# 👋 Hi there, I'm **Surya Pratap Singh**  
 
-🔬 Passion: Merging computational and life sciences to solve real-world challenges.
+### 🧬 Biotechnologist | 🧠 Bioinformatics Explorer | ⚡ FastAPI Dev  
 
-🌱 Current Focus:
+---
 
-Mastering Django, FastAPI frameworks, and scalable software design.
+## 🌟 About Me
 
-Leveraging Biopython to develop cutting-edge bioinformatics tools.
+🚀 Tech-driven biotechnologist on a mission to blend **biology**, **code**, and **data** to solve complex life science problems.
 
-Exploring sequence analysis, data visualization, and AI-driven insights for biological data.
+- 🧬 Building smart tools using **Biopython**
+- ⚡ Creating high-performance APIs with **FastAPI**
+- 📊 Exploring **sequence analysis**, data-driven biology & automation
+- 🎧 Coding with good music = my developer flow  
 
-🚀 Aspiration: Building transformative tools that redefine the intersection of biotechnology and data science.
+> 🧠 *I believe code is the microscope of modern biology.*  
 
-🎧 Coding Groove: Pairing development with music for peak productivity.
+---
 
-🛠️ Technologies & Tools
-Category	Proficiency
-Languages	Python, Bash Scripting
-Frameworks	FastAPI, Django
-Bioinformatics	Biopython, Sequence Analysis
-🚀 Current Projects
-⚡ FastAPI Applications: Developing scalable web backends and APIs for life sciences data integration and processing.
+## 🛠️ Tech Stack
 
-🧬 Bioinformatics Tools: Designing scripts to analyze and visualize biological data using Biopython.
+| 💡 Category         | ⚙️ Tools & Skills                     |
+|---------------------|----------------------------------------|
+| **Languages**        | Python 🐍, Bash 🖥️                     |
+| **Frameworks**       | FastAPI ⚡ (async + fast + elegant)    |
+| **Bioinformatics**   | Biopython 🧬, Sequence Analysis 🧫     |
+| **Other Tools**      | Git 🌱, Linux 🐧, Markdown 📄            |
 
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya-2701&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-2701&layout 💡 Let’s Collaborate!
-I’m always on the lookout for exciting ideas and projects. Let’s connect to build impactful solutions:
-🌐 LinkedIn | 📂 GitHub
+---
+
+## 🚧 What I'm Working On
+
+- ⚡ **FastAPI-powered Bioinformatics APIs**  
+- 🧬 Tools to process & visualize biological sequences  
+- 📈 Building smarter ways to handle biological data pipelines  
+
+---
+
+## 📊 GitHub Stats
+
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya-2701&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-2701&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let’s Connect & Collaborate!
+
+I'm open to collaborations, discussions, and cool ideas in:
+
+> 🧬 Bioinformatics | ⚙️ Tech in Life Sciences | 💡 Data Science | 🌐 APIs for Biology  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Surya-2701)
+
+---
+
+⭐️ *"Turning biology into code, and code into solutions."*
