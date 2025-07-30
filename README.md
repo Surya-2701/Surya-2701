@@ -49,7 +49,7 @@ I'm open to collaborations, discussions, and cool ideas in:
 
 > 🧬 Bioinformatics | ⚙️ Tech in Life Sciences | 💡 Data Science | 🌐 APIs for Biology  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/surya-pratap-singh-098723171)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Surya-2701)
 
 ---
